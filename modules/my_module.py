@@ -9,3 +9,5 @@ def is_prime(n:int)->bool:
             if n%d ==0:
                 return False
     return True 
+
+print('My module is imported')
