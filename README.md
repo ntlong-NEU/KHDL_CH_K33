@@ -14,6 +14,6 @@ Cao học khóa 13, Toán Kinh tế
 + [PowerBI](https://drive.google.com/drive/folders/1KFxC1iC7QIXp9sQthhZXkic7O1hRaSOd?usp=sharing) hoặc khóa học online do khoa Toán Kinh tế xây dựng(free): [Fundamentals of Data Analytics
 ](https://online.atingi.org/enrol/index.php?id=6546)
 
-+ [Chuẩn bị dữ liệu cho học máy]](https://github.com/ntlong-NEU/DSEB65A-DataPre-Visual)
++ [Chuẩn bị dữ liệu cho học máy](https://github.com/ntlong-NEU/DSEB65A-DataPre-Visual)
 
 
